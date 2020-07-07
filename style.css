@@ -20,3 +20,41 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1,.cat2,.cat3{
+    border-radius: 10px;
+     
+}
+.cat1{
+    background-color: cyan;
+    padding: 10px 30px;
+}
+.cat2{
+    background-color: darkorchid;
+    padding: 10px 30px;
+}
+.cat3{
+    background-color: darksalmon;
+    padding: 10px 30px;
+}
+.catagories h1{
+color: rgb(10, 10, 10);
+}
+catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
